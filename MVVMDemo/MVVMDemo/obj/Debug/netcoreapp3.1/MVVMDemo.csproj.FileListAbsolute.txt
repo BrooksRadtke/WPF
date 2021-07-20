@@ -1,15 +1,15 @@
-C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
-C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\Views\StudentView.g.cs
-C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\App.g.cs
-C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
-C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo_MarkupCompile.cache
-C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo_MarkupCompile.lref
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\bin\Debug\netcoreapp3.1\MVVMDemo.exe
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\bin\Debug\netcoreapp3.1\MVVMDemo.deps.json
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\bin\Debug\netcoreapp3.1\MVVMDemo.runtimeconfig.json
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\bin\Debug\netcoreapp3.1\MVVMDemo.runtimeconfig.dev.json
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\bin\Debug\netcoreapp3.1\MVVMDemo.dll
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\bin\Debug\netcoreapp3.1\MVVMDemo.pdb
+C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\Views\StudentView.g.cs
+C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo_MarkupCompile.cache
+C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo_MarkupCompile.lref
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\Views\StudentView.baml
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo.g.resources
@@ -19,3 +19,4 @@ C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MV
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo.dll
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo.pdb
 C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo.genruntimeconfig.cache
+C:\Users\brook\Documents\GitHub\WPF\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo.csproj.AssemblyReference.cache
